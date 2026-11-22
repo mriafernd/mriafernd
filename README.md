@@ -5,8 +5,8 @@ Bem-vinda(o) ao meu perfil do GitHub! Sou estudante/desenvolvedora apaixonada po
 ---
 
 ###  Sobre mim
--  Atualmente estou trabalhando/estudando **Análise de dados e Cloud Computing**.
--  Estou aprimorando meus conhecimentos em **Java, Python, SQL e Análise de Dados**.
+-  Atualmente estou estudando **Análise de dados e Cloud Computing**.
+-  Estou aprimorando meus conhecimentos em **Java, Python, SQL, Cloud e Análise de Dados**.
 
 ---
 
