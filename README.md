@@ -1,6 +1,6 @@
-# Olá! Eu sou a Maria Fernanda 👋
+# Olá! Eu sou a Fernanda :)
 
-Bem-vinda(o) ao meu perfil do GitHub! Sou estudante/desenvolvedora apaixonada por tecnologia e dados, sempre buscando aprender coisas novas e resolver problemas através do código.
+Esse é o meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora, apaixonada por tecnologia e dados, sempre buscando aprender coisas novas e resolver problemas através do código.
 
 ---
 
